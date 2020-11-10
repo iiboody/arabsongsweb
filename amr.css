@@ -1,0 +1,50 @@
+body{
+    background-color: salmon;
+margin-top: 20px;
+}
+#ss{
+    margin-top: 40px;
+}
+
+#ss:hover{
+   color: antiquewhite;
+}
+#saa{
+  padding-left: 500px;
+}
+#saa:hover{
+    color: navajowhite;
+}
+
+#sss{
+   padding-left: 300px;
+}
+.btn1{
+    padding-top: 5px;
+    margin-left: 40px ;
+    margin-top: 30px;
+    box-sizing: 10px;
+}
+#download{
+    color: black;
+    font-size: 15px ;
+    text-decoration: none;
+}
+
+#btn{
+    background-color: #f1f1f1;
+}
+#para{
+    
+    font-size: 30px;
+}
+
+
+#back{
+
+    background-color: whitesmoke;
+    margin-left: 20%;
+    margin-top: 50px;
+    font-size: 14px;
+    
+    }
